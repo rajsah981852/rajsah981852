@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajsah981852" alt="rajsah981852" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript, react, FAST API**.
+- 🌱 I’m currently learning **Javascript, react, FAST API**
 
 - 🤝 I’m looking for help with **Javascript Development**
 

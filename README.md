@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Javascript, react, FAST API**
 
-- 🤝 I’m looking for help with **Javascript Development**.
+- 🤝 I’m looking for help with **Javascript Development**
 
 - 💬 Ask me about **react, API, Database**
 

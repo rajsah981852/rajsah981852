@@ -22,3 +22,27 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajsah981852&" alt="rajsah981852" /></p>
 
+
+
+## Installation
+
+Install my-project with npm
+
+```bash
+npm install my-project
+cd my-project
+```
+
+## Usage/Examples
+
+```javascript
+import Component from 'my-project'
+
+function App() {
+  return <Component />
+}
+```
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
